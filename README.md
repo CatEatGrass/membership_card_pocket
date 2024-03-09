@@ -1,0 +1,2 @@
+# membership_card_pocket
+用Fultter写的一个会员卡包的项目，可以扫描会员卡条形码然后储存在app中，方便之后使用
